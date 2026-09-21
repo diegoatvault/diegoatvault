@@ -2,8 +2,6 @@ English · [Español](./README.md)
 
 # Diego Torres
 
-<img src="./assets/diego-torres.png" alt="Diego Torres" width="160">
-
 **More than 30 years in technology and consultative sales. Today, also building products with AI.**
 
 I'm the founder of [AT Vault](https://atvault.com/).
